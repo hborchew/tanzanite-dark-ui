@@ -1,0 +1,16 @@
+{
+  "name": "tanzanite-dark-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "Dark UI Theme for Tanzanite Silicon Solutions Inc",
+  "keywords": [
+    "ui",
+    "theme",
+    "tanzanitesi"
+  ],
+  "repository": "https://github.com/hborchew/tanzanite-dark-ui",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
